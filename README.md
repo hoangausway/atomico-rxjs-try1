@@ -35,5 +35,15 @@ export const useState$ = (state$, initialState) => {
   }, [])
   return state
 }
+```
+```bash
+# Emits event
+# github-suggestion-list.js
+...
+<button onclick={emitters.refreshEmit}>Refresh</button>
+...
 
+# github-suggestion.js
+...
+<button onclick={closeEmit}>X</button>
 ```
