@@ -1,4 +1,4 @@
-# atomico-rxjs
+# atomico-rxjs-try1
 ### Learning RxJS with Atomico
 
 An example of a "Who to follow" suggestions box built with the Reactive Programming library **RxJS** and **Atomico**
