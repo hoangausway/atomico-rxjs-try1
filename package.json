@@ -1,0 +1,18 @@
+{
+  "name": "atomico-rxjs-1",
+  "description": "Atomico's implementation of an example from Andre Saltz's article 'The introduction to Reactive Programming you've been missing'",
+  "version": "1.0.0",
+  "source": "index.html",
+  "scripts": {
+    "build": "bundle index.html dist",
+    "dev": "bundle index.html dist --watch --server",
+    "prepare": "npm run build"
+  },
+  "dependencies": {
+    "atomico": "^0.21.1",
+    "rxjs": "^6.5.4"
+  },
+  "devDependencies": {
+    "bundle-cli": "^0.21.5"
+  }
+}
