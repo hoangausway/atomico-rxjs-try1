@@ -47,7 +47,7 @@ const createSuggestionStream = closeClickStream => {
     map(([click, users]) => users[Math.floor(Math.random() * users.length)])
   )
 
-  // emits null suggestion whenver refreshing happen
+  // emits null suggestion whenever refreshing happen
   const nullRefreshStream = refreshClickStream.pipe(map(() => null))
 
   // resulted suggestion stream
