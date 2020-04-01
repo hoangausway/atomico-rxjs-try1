@@ -1,5 +1,5 @@
 {
-  "name": "atomico-rxjs-1",
+  "name": "atomico-rxjs-try1",
   "description": "Atomico's implementation of an example from Andre Saltz's article 'The introduction to Reactive Programming you've been missing'",
   "version": "1.0.0",
   "source": "index.html",
