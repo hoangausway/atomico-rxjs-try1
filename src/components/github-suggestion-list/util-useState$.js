@@ -1,7 +1,6 @@
 /*
   Utility function
-  Returns state which is value emitted by stream.
-  The stream, in it's turn, is a Subject which triggered by assoiciated events.
+  Returns state as stream's emitting value.
   (state$, initialState) -> state
 */
 import { useState, useEffect } from 'atomico'
