@@ -1,5 +1,5 @@
 import { h, customElement } from 'atomico'
-import { useState$ } from './util-useState$'
+import { useState$ } from './util-usestate$'
 
 const UserSuggestion = props => {
   const { suggestionStream, closeEmit } = props

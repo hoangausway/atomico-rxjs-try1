@@ -1,5 +1,5 @@
 import { h, customElement } from 'atomico'
-import streamsEmitters from './streams'
+import streamsEmitters from './streams-emitters'
 import './github-suggestion'
 
 const GithubSuggestionList = props => {
