@@ -1,10 +1,9 @@
 # atomico-rxjs-try1
-### Learning RxJS with Atomico
+Manage state with RxJS in Atomico
 
-An example of a "Who to follow" suggestions box built with the Reactive Programming library **RxJS** and **Atomico**
-
-Original article of Andre Saltz:
-[The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754#modellin)
+### Subjects
+- Web component, Atomico, RxJS
+- Implement the example "Who to follow" suggestions box following the original article of Andre Saltz: [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754#modellin)
 
 ### Takeaways
 #### State management with RxJS
