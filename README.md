@@ -5,6 +5,10 @@ Manage state with RxJS in Atomico
 - Web component, Atomico, RxJS
 - Implement the example "Who to follow" suggestions box following the original article of Andre Saltz: [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754#modellin)
 
+## To show
+- Define a web component without class (Atomico way, likes modern React)
+- Taste Reactive Programming (RxJS) with Atomico
+
 ### Takeaways
 #### State management with RxJS
 - Use Atomico web compoenent as a view which presents data, accepts user interactions and triggers appropriate stream events
